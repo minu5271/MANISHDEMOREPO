@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFMANISHDEMO"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
